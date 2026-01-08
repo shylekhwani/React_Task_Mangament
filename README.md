@@ -104,7 +104,7 @@ UI → Redux Actions → Redux Store
 Example:
 
 ```md
-![Task Manager Home](./public/Screenshot.png)
+![Task Manager Home](./Screenshot.png)
 ```
 
 ---
